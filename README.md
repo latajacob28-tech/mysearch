@@ -27,6 +27,9 @@ a canvas layer for the glass effect and animations.
 
 ## Running it
 
+```
+python finder.py
+```
 
 ## Notes
 
