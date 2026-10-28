@@ -34,3 +34,4 @@ python finder.py
 ## Notes
 
 A personal project built to learn desktop GUI development and how search indexing works.
+<img width="591" height="390" alt="image" src="https://github.com/user-attachments/assets/9ae671d2-4c90-4a21-a48a-208c8fe1a69f" />
